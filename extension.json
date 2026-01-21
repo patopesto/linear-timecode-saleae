@@ -1,0 +1,13 @@
+{
+  "name": "Linear Timecode (LTC)",
+  "apiVersion": "1.0.0",
+  "author": "Alban Moreon",
+  "version": "1.0.0",
+  "description": "Linear Timecode analyzer",
+  "extensions": {
+    "Linear Timecode (LTC)": {
+      "type": "HighLevelAnalyzer",
+      "entryPoint": "LTCAnalyzer.LTCAnalyzer"
+    }
+  }
+}

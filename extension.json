@@ -3,7 +3,7 @@
   "apiVersion": "1.0.0",
   "author": "Alban Moreon",
   "version": "1.0.0",
-  "description": "Linear Timecode analyzer",
+  "description": "Linear Timecode analyzer (SMPTE-12M)",
   "extensions": {
     "Linear Timecode (LTC)": {
       "type": "HighLevelAnalyzer",

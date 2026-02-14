@@ -25,7 +25,7 @@ This is a [High-Level Analyser](https://support.saleae.com/product/user-guide/ex
 ## Development
 
 1. Clone this repository.
-2. In Logic 2, `Extenstions > ⋮ (top-right menu) > Load Existing Extension`, and choose the directory where you cloned this repository.
+2. In Logic 2, `Extensions > ⋮ (top-right menu) > Load Existing Extension`, and choose the directory where you cloned this repository.
 
 
 ## Reference
